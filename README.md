@@ -39,8 +39,7 @@ GoodCabs is facing challenges in key areas like **revenue growth**, **repeat pas
    - Compiled key findings and insights into a [**PowerPoint presentation**]() for stakeholders.
 
 ## Ad-Hoc Requests
-  - [Ad-Hoc Request PDF]()
-  - [Results]()
+  - [Results](https://github.com/shellynagar27/Good-Cabs-Data-Analysis-Project/tree/main/SQL%20Solution)
 
 ## Data Set Overview
 
