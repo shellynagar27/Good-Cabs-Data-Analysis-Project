@@ -1,4 +1,8 @@
 # Good-Cabs-Data-Analysis-Project
+   - [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZmU3NWE4ZTEtZDVmNC00ZjViLThiODctZjJhN2FmM2VhNTU0IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&embedImagePlaceholder=true&pageName=a7151d08406ea33b5130)
+   - [Video Presentation]()
+   - [Linkedin Post Link]()
+   - [Details about complete challenge](https://codebasics.io/challenge/codebasics-resume-project-challenge)
 
 ## Overview
 This project focuses on analyzing the operations and performance of **GoodCabs**, a cab service company, through data-driven insights. The goal is to understand key business metrics, identify growth opportunities, and optimize services based on data analysis.
@@ -32,11 +36,11 @@ GoodCabs is facing challenges in key areas like **revenue growth**, **repeat pas
    - Created an interactive **Power BI** dashboard to visualize key performance indicators (KPIs) such as revenue, trip types, passenger ratings, etc.
 
 6. **Results Presentation**:  
-   - Compiled key findings and insights into a **PowerPoint presentation** for stakeholders.
+   - Compiled key findings and insights into a [**PowerPoint presentation**]() for stakeholders.
 
 ## Ad-Hoc Requests
-  - Ad-Hoc Request PDF
-  - Results
+  - [Ad-Hoc Request PDF]()
+  - [Results]()
 
 ## Data Set Overview
 
