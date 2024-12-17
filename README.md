@@ -1,22 +1,22 @@
-# Good-Cabs-Data-Analysis-Project
+# 🚕 Good-Cabs-Data-Analysis-Project
    - [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZmU3NWE4ZTEtZDVmNC00ZjViLThiODctZjJhN2FmM2VhNTU0IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&embedImagePlaceholder=true&pageName=a7151d08406ea33b5130)
    - [Video Presentation]()
    - [Linkedin Post Link]()
    - [Details about complete challenge](https://codebasics.io/challenge/codebasics-resume-project-challenge)
 
-## Overview
+## 📋 Overview
 This project focuses on analyzing the operations and performance of **GoodCabs**, a cab service company, through data-driven insights. The goal is to understand key business metrics, identify growth opportunities, and optimize services based on data analysis.
 
-## Business Problem
+## 😵 Business Problem
 GoodCabs is facing challenges in key areas like **revenue growth**, **repeat passenger rate**, and **operational efficiency**. The business requires actionable insights to improve performance, enhance customer experience, and adapt to emerging trends.
 
-## Key Objectives
+## 🔑 Key Objectives
 - Identify patterns in revenue, trips, passengers, and ratings.
 - Analyze city-specific performance to find growth opportunities.
 - Establish correlations between customer behavior, trip distance, and fare.
 - Enhance the decision-making process with interactive dashboards.
 
-## Data Analysis Methodology
+## 🪜 Data Analysis Methodology
 
 1. **Business Problem Understanding**:  
    - Gathered insights from stakeholders to understand key objectives and requirements.
@@ -38,10 +38,10 @@ GoodCabs is facing challenges in key areas like **revenue growth**, **repeat pas
 6. **Results Presentation**:  
    - Compiled key findings and insights into a [**PowerPoint presentation**](https://github.com/shellynagar27/Good-Cabs-Data-Analysis-Project/blob/main/Final%20PPT.pdf) for stakeholders.
 
-## Ad-Hoc Requests
+## 📃 Ad-Hoc Requests
   - [Results](https://github.com/shellynagar27/Good-Cabs-Data-Analysis-Project/tree/main/SQL%20Solution)
 
-## Data Set Overview
+## 🔍 Data Set Overview
 
 This project utilizes data from two primary databases: `trips_db` and `targets_db`. These databases contain detailed and aggregated data on Goodcabs' operations, including trip information, passenger behavior, city-specific performance, and monthly targets for growth. 
 
@@ -114,32 +114,61 @@ This database contains monthly targets for each city, including trip counts, new
      - `city_id`: City identifier.
      - `total_target_trips`: Target total trips count.
 
-## Data Model
+## 🗄️Data Model
 ![Screenshot 2024-12-15 154118](https://github.com/user-attachments/assets/0a3599a8-2bdf-4fa7-a422-33a3c3f634d7)
 
 
-## Key Insights & Findings
+## 🔍 **Key Findings**  
+1. **Trip Distribution:**  
+   - Peak demand observed during **weekends and evenings**.  
+   - Low utilization of cabs during **off-peak hours**.  
 
-### Revenue Analysis
-- Top 3 cities contributing to revenue: Jaipur, Kochi, Chandigarh.
-- Significant revenue contributions from weekends, with **February** being the highest-performing month.
-- Revenue growth fluctuated with **February** showing the highest growth and **June** the largest decline.
+2. **Repeat Passenger Rate:**  
+   - **Top-performing cities** exhibit higher repeat rates due to better service quality and pricing.  
+   - Low repeat rates in certain cities correlate with inconsistent passenger satisfaction.  
 
-### Trip Analysis
-- Actual trips: **426K**, Target trips: **429K**.
-- **59%** of trips were repeat trips, with **Jaipur** exceeding trip targets consistently.
-- **June** showed the least performance in terms of trip target achievement.
+3. **Fare Optimization:**  
+   - Pricing inconsistencies identified across cities.  
+   - High fares during off-peak hours may deter passengers.  
 
-### Passenger Analysis
-- Total passengers: **238K** with **25%** repeat passengers.
-- **Jaipur** and **Kochi** were the top cities for new passenger acquisition.
-- High new passenger acquisition rate but lower repeat customer retention in most cities.
+4. **Customer Ratings:**  
+   - Negative feedback mainly tied to **cab availability**, **driver behavior**, and **ride cancellations**.  
 
-### Ratings & Distance
-- Average passenger rating: **7.66** (Target: **7.98**), and average driver rating: **7.83**.
-- **Jaipur** had the highest average distance per trip at **30 km** with a higher fare compared to cities like Surat.
+5. **New vs. Repeat Passengers:**  
+   - Cities with a healthy balance of new and repeat passengers outperform others in overall trip volume.  
 
-## Tools & Technologies
+---
+
+## 💡 **Insights**  
+- **Passenger Satisfaction** drives **repeat trips**, which directly impacts revenue stability.  
+- **Operational inefficiencies**, such as off-peak idle times and pricing strategies, present opportunities for optimization.  
+- **Seasonal and event-based demand** in tourism-driven cities remains underutilized.  
+
+---
+
+## 🚀 **Recommendations**  
+1. **Optimize Fare Strategy:**  
+   - Introduce dynamic pricing models to attract passengers during off-peak hours.  
+   - Maintain competitive pricing to retain repeat customers.  
+
+2. **Boost Passenger Satisfaction:**  
+   - Address key pain points: **driver behavior**, **ride availability**, and **cancellation issues**.  
+   - Introduce driver training programs and incentivize quality service.  
+
+3. **Targeted Marketing:**  
+   - Promote services during **tourism seasons** and **local events** to boost demand.  
+   - Run campaigns to attract **new passengers** while offering loyalty programs to retain repeat users.  
+
+4. **Partnership Opportunities:**  
+   - Collaborate with local businesses (hotels, malls, events) to drive demand in high-footfall areas.  
+
+5. **Data Collection & Analysis:**  
+   - Implement feedback mechanisms to gather more insights on passenger preferences.  
+   - Analyze socio-economic patterns to tailor operations city-wise.  
+
+---
+
+## 🛠️ Tools & Technologies
 - **SQL**: For data extraction and ad-hoc analysis.
 - **Power Query**: For data cleaning and transformation.
 - **Excel**: For visualizing analysis results.
@@ -149,15 +178,15 @@ This database contains monthly targets for each city, including trip counts, new
 - [**Adobe Color**](https://color.adobe.com/create/color-wheel) & [**Coolors**](https://coolors.co/): For generating color palette
 - [**Adobe Stock**](https://stock.adobe.com/in/) & [**shutterctock**](https://www.shutterstock.com/): For images
 
-## Recommendations & Next Steps
-- **Factors Influencing Repeat Passenger Rates**: Focus on improving customer service, competitive pricing, and city-specific marketing strategies.
-- **Tourism & Business Demand**: Tailor marketing efforts around tourism seasons and local events to increase trip volume.
-- **Emerging Mobility Trends**: Consider integrating electric vehicles and eco-friendly initiatives to remain competitive in tier-2 cities.
-- **Partnership Opportunities**: Partner with local businesses (hotels, malls) to boost demand and improve customer loyalty.
-- **Data Collection**: Expand data collection to include customer feedback, operational metrics, and socio-economic data for deeper insights.
+## 🎯 **Outcome**  
+The project provided actionable insights to optimize Goodcabs' operations, improve customer satisfaction, and increase repeat passenger rates. The recommendations aim to drive **sustainable growth** and enhance **operational efficiency** across cities through data-driven decisions.
 
-## Conclusion
-This data analysis project provides actionable insights that can help GoodCabs improve its performance, enhance customer experience, and achieve sustainable growth through data-driven decisions.
+### **👨‍💻 Skills Demonstrated:**  
+- Data Analysis  
+- Visualization  
+- Critical Thinking  
+- Business Strategy  
+- Communication  
 
 
 
