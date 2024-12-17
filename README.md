@@ -36,7 +36,7 @@ GoodCabs is facing challenges in key areas like **revenue growth**, **repeat pas
    - Created an interactive **Power BI** dashboard to visualize key performance indicators (KPIs) such as revenue, trip types, passenger ratings, etc.
 
 6. **Results Presentation**:  
-   - Compiled key findings and insights into a [**PowerPoint presentation**]() for stakeholders.
+   - Compiled key findings and insights into a [**PowerPoint presentation**](https://github.com/shellynagar27/Good-Cabs-Data-Analysis-Project/blob/main/Final%20PPT.pdf) for stakeholders.
 
 ## Ad-Hoc Requests
   - [Results](https://github.com/shellynagar27/Good-Cabs-Data-Analysis-Project/tree/main/SQL%20Solution)
