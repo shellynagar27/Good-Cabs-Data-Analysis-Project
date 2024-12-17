@@ -171,6 +171,10 @@ This database contains monthly targets for each city, including trip counts, new
 
 ---
 
+## 🎯 **Outcome**  
+The project provided actionable insights to optimize Goodcabs' operations, improve customer satisfaction, and increase repeat passenger rates. The recommendations aim to drive **sustainable growth** and enhance **operational efficiency** across cities through data-driven decisions.
+
+---
 ## 🛠️ Tools & Technologies
 - **SQL**: For data extraction and ad-hoc analysis.
 - **Power Query**: For data cleaning and transformation.
@@ -181,10 +185,7 @@ This database contains monthly targets for each city, including trip counts, new
 - [**Adobe Color**](https://color.adobe.com/create/color-wheel) & [**Coolors**](https://coolors.co/): For generating color palette
 - [**Adobe Stock**](https://stock.adobe.com/in/) & [**shutterctock**](https://www.shutterstock.com/): For images
 ---
-## 🎯 **Outcome**  
-The project provided actionable insights to optimize Goodcabs' operations, improve customer satisfaction, and increase repeat passenger rates. The recommendations aim to drive **sustainable growth** and enhance **operational efficiency** across cities through data-driven decisions.
 
----
 ### **👨‍💻 Skills Demonstrated:**  
 - Data Analysis  
 - Visualization  
