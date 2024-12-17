@@ -3,19 +3,22 @@
    - [Video Presentation]()
    - [Linkedin Post Link]()
    - [Details about complete challenge](https://codebasics.io/challenge/codebasics-resume-project-challenge)
-
+---
 ## 📋 Overview
 This project focuses on analyzing the operations and performance of **GoodCabs**, a cab service company, through data-driven insights. The goal is to understand key business metrics, identify growth opportunities, and optimize services based on data analysis.
 
+---
 ## 😵 Business Problem
 GoodCabs is facing challenges in key areas like **revenue growth**, **repeat passenger rate**, and **operational efficiency**. The business requires actionable insights to improve performance, enhance customer experience, and adapt to emerging trends.
 
+---
 ## 🔑 Key Objectives
 - Identify patterns in revenue, trips, passengers, and ratings.
 - Analyze city-specific performance to find growth opportunities.
 - Establish correlations between customer behavior, trip distance, and fare.
 - Enhance the decision-making process with interactive dashboards.
 
+---
 ## 🪜 Data Analysis Methodology
 
 1. **Business Problem Understanding**:  
@@ -37,10 +40,10 @@ GoodCabs is facing challenges in key areas like **revenue growth**, **repeat pas
 
 6. **Results Presentation**:  
    - Compiled key findings and insights into a [**PowerPoint presentation**](https://github.com/shellynagar27/Good-Cabs-Data-Analysis-Project/blob/main/Final%20PPT.pdf) for stakeholders.
-
+---
 ## 📃 Ad-Hoc Requests
   - [Results](https://github.com/shellynagar27/Good-Cabs-Data-Analysis-Project/tree/main/SQL%20Solution)
-
+---
 ## 🔍 Data Set Overview
 
 This project utilizes data from two primary databases: `trips_db` and `targets_db`. These databases contain detailed and aggregated data on Goodcabs' operations, including trip information, passenger behavior, city-specific performance, and monthly targets for growth. 
@@ -113,11 +116,11 @@ This database contains monthly targets for each city, including trip counts, new
      - `month`: Start date of the target month (YYYY-MM-DD).
      - `city_id`: City identifier.
      - `total_target_trips`: Target total trips count.
-
+---
 ## 🗄️Data Model
 ![Screenshot 2024-12-15 154118](https://github.com/user-attachments/assets/0a3599a8-2bdf-4fa7-a422-33a3c3f634d7)
 
-
+---
 ## 🔍 **Key Findings**  
 1. **Trip Distribution:**  
    - Peak demand observed during **weekends and evenings**.  
@@ -177,10 +180,11 @@ This database contains monthly targets for each city, including trip counts, new
 - [**Flaticon**](https://www.flaticon.com/): For icons
 - [**Adobe Color**](https://color.adobe.com/create/color-wheel) & [**Coolors**](https://coolors.co/): For generating color palette
 - [**Adobe Stock**](https://stock.adobe.com/in/) & [**shutterctock**](https://www.shutterstock.com/): For images
-
+---
 ## 🎯 **Outcome**  
 The project provided actionable insights to optimize Goodcabs' operations, improve customer satisfaction, and increase repeat passenger rates. The recommendations aim to drive **sustainable growth** and enhance **operational efficiency** across cities through data-driven decisions.
 
+---
 ### **👨‍💻 Skills Demonstrated:**  
 - Data Analysis  
 - Visualization  
