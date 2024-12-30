@@ -3,7 +3,7 @@
    - [Video Presentation](https://youtu.be/H8XDDNUDq9I)
    - [Linkedin Post Link](https://www.linkedin.com/posts/shellynagar_presentation-activity-7279613911987867648-Brj2?utm_source=share&utm_medium=member_desktop)
    - [Details about complete challenge](https://codebasics.io/challenge/codebasics-resume-project-challenge)
-   - [Dashboard PDF version]()
+   - [Dashboard PDF version](https://github.com/shellynagar27/Good-Cabs-Data-Analysis-Project/blob/main/Dashboard.pdf)
 ---
 ## 📋 Overview
 This project focuses on analyzing the operations and performance of **GoodCabs**, a cab service company, through data-driven insights. The goal is to understand key business metrics, identify growth opportunities, and optimize services based on data analysis.
