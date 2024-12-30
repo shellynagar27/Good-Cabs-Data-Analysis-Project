@@ -1,7 +1,7 @@
 # 🚕 Good-Cabs-Data-Analysis-Project
    - [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZmU3NWE4ZTEtZDVmNC00ZjViLThiODctZjJhN2FmM2VhNTU0IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&embedImagePlaceholder=true&pageName=a7151d08406ea33b5130)
-   - [Video Presentation]()
-   - [Linkedin Post Link]()
+   - [Video Presentation](https://youtu.be/H8XDDNUDq9I)
+   - [Linkedin Post Link](https://www.linkedin.com/posts/shellynagar_presentation-activity-7279613911987867648-Brj2?utm_source=share&utm_medium=member_desktop)
    - [Details about complete challenge](https://codebasics.io/challenge/codebasics-resume-project-challenge)
 ---
 ## 📋 Overview
