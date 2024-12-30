@@ -121,33 +121,6 @@ This database contains monthly targets for each city, including trip counts, new
 ![Screenshot 2024-12-15 154118](https://github.com/user-attachments/assets/0a3599a8-2bdf-4fa7-a422-33a3c3f634d7)
 
 ---
-## 🔍 **Key Findings**  
-1. **Trip Distribution:**  
-   - Peak demand observed during **weekends and evenings**.  
-   - Low utilization of cabs during **off-peak hours**.  
-
-2. **Repeat Passenger Rate:**  
-   - **Top-performing cities** exhibit higher repeat rates due to better service quality and pricing.  
-   - Low repeat rates in certain cities correlate with inconsistent passenger satisfaction.  
-
-3. **Fare Optimization:**  
-   - Pricing inconsistencies identified across cities.  
-   - High fares during off-peak hours may deter passengers.  
-
-4. **Customer Ratings:**  
-   - Negative feedback mainly tied to **cab availability**, **driver behavior**, and **ride cancellations**.  
-
-5. **New vs. Repeat Passengers:**  
-   - Cities with a healthy balance of new and repeat passengers outperform others in overall trip volume.  
-
----
-
-## 💡 **Insights**  
-- **Passenger Satisfaction** drives **repeat trips**, which directly impacts revenue stability.  
-- **Operational inefficiencies**, such as off-peak idle times and pricing strategies, present opportunities for optimization.  
-- **Seasonal and event-based demand** in tourism-driven cities remains underutilized.  
-
----
 
 ## 🚀 **Recommendations**  
 1. **Optimize Fare Strategy:**  
@@ -155,7 +128,7 @@ This database contains monthly targets for each city, including trip counts, new
    - Maintain competitive pricing to retain repeat customers.  
 
 2. **Boost Passenger Satisfaction:**  
-   - Address key pain points: **driver behavior**, **ride availability**, and **cancellation issues**.  
+   - Address key pain points: **driver behavior**, and **repeat passenger rate**.  
    - Introduce driver training programs and incentivize quality service.  
 
 3. **Targeted Marketing:**  
